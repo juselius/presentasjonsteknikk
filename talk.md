@@ -1,36 +1,44 @@
 # Tankar kring presentationsteknik
 
-## eller *"Hvordan jeg blev så flink"*
+### eller *"Hvordan jeg blev sa flink"*
 
-## Jonas Juselius   \<jonas.juselius@uit.no\>
+## Jonas Juselius  <jonas.juselius@uit.no>
 
---
+---
 
 layout: false
 
-## PowerPoint för dig eller mig?
-* Är mina slides en krycka för mig, eller till hjälp för åhörarna?
-* Kan min dåliga story räddas av specialeffekter?
+## PowerPoint for dig eller mig?
+* Ar mina slides en krycka for mig, eller till hjalp for ahorarna?
+* Kan min daliga story raddas av specialeffekter?
 
-## En födsel
-* Jag skriver hela föredraget i huvudet
-* Jag inbillar mig att jag håller presentationen
-* Jag skriver mitt föredrag
-* Behöver jag slides?
+---
 
-## Förberedelser
-* Jag presenterar mitt föredrag minst två gånger för mig själv
-* Jag passar på tiden
+## En fodsel
+* Jag skriver hela foredraget i huvudet
+* Jag inbillar mig att jag haller presentationen
+* Jag skriver mitt foredrag
+* Behover jag slides?
+
+---
+
+## Forberedelser
+* Jag presenterar mitt foredrag minst tva ganger for mig sjalv
+* Jag passar pa tiden
+
+---
 
 ## En garde!
-* Håll tiden!
-* Överskatta inte din publik
+* Hall tiden!
+* overskatta inte din publik
 * Underakatta inte din publik
 
+---
+
 ## Debrief
-* Hur många sov?
-* Hur många gäspade?
-* Vad glömde jag?
+* Hur manga sov?
+* Hur manga gaspade?
+* Vad glomde jag?
 * Vad skurrade?
 
 
