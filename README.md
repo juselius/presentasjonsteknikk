@@ -2,4 +2,4 @@
 
 Mina tankar kring presentationsteknik.
 
-[Min presentation.](http://juselius.github.io/presientasjonsteknikk)
+[Min presentation.](http://juselius.github.io/presentasjonsteknikk)
