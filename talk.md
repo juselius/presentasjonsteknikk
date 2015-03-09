@@ -1,8 +1,8 @@
 # Tankar kring presentationsteknik
 
-## eller *"Hvordan jeg blev så flink"*
+### eller *"Hvordan jeg blev så flink"*
 
-## Jonas Juselius   \<jonas.juselius@uit.no\>
+## Jonas Juselius   <jonas.juselius@uit.no>
 
 --
 
